@@ -706,9 +706,3 @@ If you want to extend this project, good next steps are:
 8. **Persistent HNSW:** serialize and deserialize the graph index.
 9. **Hybrid search:** combine keyword matching with vector search.
 10. **Tests:** add unit tests for distance metrics, parsing, indexes, and API routes.
-
----
-
-## License
-
-MIT - use this however you want.
